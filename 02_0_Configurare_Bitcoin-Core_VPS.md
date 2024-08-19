@@ -1,4 +1,4 @@
-# Capitolo Due: Instala Bitcoin-Core VPS
+# Capitolo Due: Installare Bitcoin-Core VPS
 
 Per iniziare con Bitcoin, è necessario configurare una macchina per avviare Bitcoin. Gli articoli di questo capitolo descrivono come fare, principalmente utilizzando un VPS (Virtual Private Server, Server Virtuale Privato).
 
